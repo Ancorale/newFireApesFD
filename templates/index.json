@@ -1,0 +1,748 @@
+{
+  "sections": {
+    "7f0a8023-f1bb-4f06-af1c-6bdea2bfb030": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16682270163173__7f0a8023-f1bb-4f06-af1c-6bdea2bfb030-1673228785f948ab89-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/three.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16682270163173__7f0a8023-f1bb-4f06-af1c-6bdea2bfb030-1673228785f948ab89-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ff.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "24df5c59-b7fa-4179-b8d7-b6c5ee671669": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/breast.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "38101e11-c963-4208-a7ea-0cab0b676730": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mascot.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a49c8fd4-b3e8-4773-90a0-e01145b3d829": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balls.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__7f0a8023-f1bb-4f06-af1c-6bdea2bfb030-1673228785f948ab89-0",
+        "template--16682270163173__7f0a8023-f1bb-4f06-af1c-6bdea2bfb030-1673228785f948ab89-1",
+        "24df5c59-b7fa-4179-b8d7-b6c5ee671669",
+        "38101e11-c963-4208-a7ea-0cab0b676730",
+        "a49c8fd4-b3e8-4773-90a0-e01145b3d829"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1661205021dc147d32": {
+      "type": "multicolumn",
+      "blocks": {
+        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/memClub.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/ccfd-members-club"
+          }
+        },
+        "7c93567b-6b1d-4ef2-aa63-f8ada06df99d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CCFDD.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/shirt"
+          }
+        },
+        "16612050215a7c211f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CCFDDLS.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/ccfd-on-duty-shirts"
+          }
+        },
+        "16612050215a7c211f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/snapBack.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/ccfd-on-duty-snap-back-hat"
+          }
+        },
+        "16612050215a7c211f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CCFDSweatPants1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/ccfd-sweatpants"
+          }
+        },
+        "ef22ec5e-6716-48f6-9c62-f6595974fe2c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CCFDSweatShirt.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/ccfd-sweats"
+          }
+        }
+      },
+      "block_order": [
+        "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae",
+        "7c93567b-6b1d-4ef2-aa63-f8ada06df99d",
+        "16612050215a7c211f-0",
+        "16612050215a7c211f-1",
+        "16612050215a7c211f-2",
+        "ef22ec5e-6716-48f6-9c62-f6595974fe2c"
+      ],
+      "settings": {
+        "title": "CCFD",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/union.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/1908-union"
+          }
+        },
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/minuteCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/minutemen-malitia"
+          }
+        },
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PinUpCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/pin-up-girls"
+          }
+        },
+        "9b78e0c4-0899-4305-9b2a-86aad3d5e57f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/roof.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/roof-on-fire"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-0",
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-1",
+        "template--16682270163173__bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7-16754581887bdbe273-2",
+        "9b78e0c4-0899-4305-9b2a-86aad3d5e57f"
+      ],
+      "settings": {
+        "title": "OFF-DUTY WEAR",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "41d9cda6-bfef-4c27-9760-b3f36ce9622c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16682270163173__41d9cda6-bfef-4c27-9760-b3f36ce9622c-1674153972f0cb4f8c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/union.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/1908-union"
+          }
+        },
+        "1b3c129d-bd65-49f3-9e5a-fc2b371961cb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imAllPickle.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/im-all-pickle"
+          }
+        },
+        "template--16682270163173__41d9cda6-bfef-4c27-9760-b3f36ce9622c-1674153972f0cb4f8c-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/movember.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/bigfoot-1"
+          }
+        },
+        "46398c0d-69e4-4787-9a00-4616724cae30": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wiggums.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/chief-wiggum"
+          }
+        },
+        "ae2bbfad-b96f-4ba2-8385-8f44d2651ac6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/crocCharm.png",
+            "title": "",
+            "text": "<p>CROC CHARMS<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/products\/croc-charms"
+          }
+        },
+        "2b05869c-e35c-4355-ada5-da63e6002fad": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fafdOriginal.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/fire-apes-fd-original"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__41d9cda6-bfef-4c27-9760-b3f36ce9622c-1674153972f0cb4f8c-0",
+        "1b3c129d-bd65-49f3-9e5a-fc2b371961cb",
+        "template--16682270163173__41d9cda6-bfef-4c27-9760-b3f36ce9622c-1674153972f0cb4f8c-2",
+        "46398c0d-69e4-4787-9a00-4616724cae30",
+        "ae2bbfad-b96f-4ba2-8385-8f44d2651ac6",
+        "2b05869c-e35c-4355-ada5-da63e6002fad"
+      ],
+      "settings": {
+        "title": "RANDOM STUFF",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1d1d8345-f7b5-4ea2-aff8-7126c8e453c7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jackCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/jack-rabbit"
+          }
+        },
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mohicanCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/last-mohican"
+          }
+        },
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sallyCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/sally-j-rabbit"
+          }
+        },
+        "a71bbd4c-77d3-46af-a8bf-4573bbc2dd3d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sumApeCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/summer-ape"
+          }
+        },
+        "ca799bf3-ce3d-44ca-8fd9-0bed9ab242d4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thirstyCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/bigfoot"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-0",
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-1",
+        "template--16682270163173__1d1d8345-f7b5-4ea2-aff8-7126c8e453c7-167544173506966e13-2",
+        "a71bbd4c-77d3-46af-a8bf-4573bbc2dd3d",
+        "ca799bf3-ce3d-44ca-8fd9-0bed9ab242d4"
+      ],
+      "settings": {
+        "title": "CUSTOM APPAREL",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wiggums.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/chief-wiggum"
+          }
+        },
+        "39adcecf-13ff-4e67-9454-b1b158f7ba05": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/allBalls.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/im-all-balls"
+          }
+        },
+        "2681dedc-6b02-4d33-8c56-47f5016982c8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imAllPickle.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/im-all-pickle"
+          }
+        },
+        "f028f06f-461b-43b4-8eb1-40ac68f9d209": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dinkCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/peter-dinklage"
+          }
+        },
+        "150f88ee-ca76-4589-b245-de1076361601": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/picoloCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/piccolo-ball"
+          }
+        },
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pickleFinkCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/picklefink"
+          }
+        },
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/whiteLinesCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/white-lines-matter"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-0",
+        "39adcecf-13ff-4e67-9454-b1b158f7ba05",
+        "2681dedc-6b02-4d33-8c56-47f5016982c8",
+        "f028f06f-461b-43b4-8eb1-40ac68f9d209",
+        "150f88ee-ca76-4589-b245-de1076361601",
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-2",
+        "template--16682270163173__a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81-16752682920389b6e8-1"
+      ],
+      "settings": {
+        "title": "PICKLE BALL",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "c0a91385-2033-4a95-aead-f60af1143f1f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ElfSized.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/elf-sized"
+          }
+        },
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hotHusband.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/hot-husband"
+          }
+        },
+        "5326758d-6f54-4c3a-ba7f-1996f1697a7e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hotWife.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/hot-wife"
+          }
+        },
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/howNaughty.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/how-naughty"
+          }
+        },
+        "90dcac00-0b3b-4cad-97a7-52f5a9ee8454": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/liftmas.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/merry-liftmas"
+          }
+        },
+        "40d36874-292b-4216-a32f-808b1679dcff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/santaCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/firefighter-santa"
+          }
+        },
+        "ef5f2990-4626-4796-8d0e-a2f3f0ca5198": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bigBulbsCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/i-like-big-bulbs"
+          }
+        },
+        "ef8f5190-f048-4238-98db-cb991a473b12": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gnomeCard.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/naughty-gnome"
+          }
+        },
+        "2dbee28f-e52c-4eae-98a6-0b0f562bd72f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/naughty1Card.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/naughty-ones"
+          }
+        }
+      },
+      "block_order": [
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-0",
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-2",
+        "5326758d-6f54-4c3a-ba7f-1996f1697a7e",
+        "template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1674523449ccf25dce-1",
+        "90dcac00-0b3b-4cad-97a7-52f5a9ee8454",
+        "40d36874-292b-4216-a32f-808b1679dcff",
+        "ef5f2990-4626-4796-8d0e-a2f3f0ca5198",
+        "ef8f5190-f048-4238-98db-cb991a473b12",
+        "2dbee28f-e52c-4eae-98a6-0b0f562bd72f"
+      ],
+      "settings": {
+        "title": "CHRISTMAS",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "16620740233ae36dce": {
+      "type": "krew",
+      "blocks": {
+        "16620740235d2be910-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/budda.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16620740235d2be910-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fat.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16620740235d2be910-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beezy.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4fc55030-2453-40f1-910c-66348cbddddf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deej.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "102df156-a844-4620-9484-ef1f227ec322": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/doc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16620740235d2be910-0",
+        "16620740235d2be910-1",
+        "16620740235d2be910-2",
+        "4fc55030-2453-40f1-910c-66348cbddddf",
+        "102df156-a844-4620-9484-ef1f227ec322"
+      ],
+      "settings": {
+        "title": "THE KREW",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "7f0a8023-f1bb-4f06-af1c-6bdea2bfb030",
+    "1661205021dc147d32",
+    "bde6b1f1-40a2-4432-aa62-d39b5c6ab3a7",
+    "41d9cda6-bfef-4c27-9760-b3f36ce9622c",
+    "1d1d8345-f7b5-4ea2-aff8-7126c8e453c7",
+    "a4d8221a-8cbd-4e3a-9f0d-8b69fa4bdd81",
+    "c0a91385-2033-4a95-aead-f60af1143f1f",
+    "16620740233ae36dce"
+  ]
+}
