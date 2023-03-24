@@ -103,6 +103,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "HAPPY ST. PADDY'S DAY!",
               "color_scheme": "accent-1",
