@@ -118,8 +118,6 @@ figure {
   background-color: #010112;
 }
 
-
-
 /* Header*/
 #shopify-section-header {
   background-color: #010112;
@@ -162,7 +160,7 @@ h2.title.h2 {
 
 div.card__content > div > h3 > a {
   font-family: LatXE;
-  font-size: 1svw;
+  font-size: .8em;
 }
 
 #shopify-section-footer
@@ -313,6 +311,7 @@ div.cart-notification__links > a,
 div.cart__warnings a,
 #customer_login > button,
 #MainContent > div > form > input.shopify-challenge__button.btn,
+#MainContent > div > form > button,
 #create_customer > button,
 #MainContent > div > div > button,
 button[aria-label="Edit address 1"],
@@ -523,14 +522,24 @@ div.appstle_tooltip_wrapper,
   }
 }
 
-/* exposes shadow on bottom of cards */
+/* mobile */
 @media screen and (max-width: 750px) {
+/* exposes shadow on bottom of cards */
   #Slide-template--16682270163173__1661205021dc147d32-1 > div > a > div,
   #Slide-template--16682270163173__c0a91385-2033-4a95-aead-f60af1143f1f-1
     > div
     > a
     > div {
     margin-bottom: 2.5em;
+  }
+
+  /* collection header font size for mobile */
+  .collection-hero__title {
+    font-size: 1em;
+  }
+
+  .card__heading.h5 > a {
+    font-size: 1em;    
   }
 }
 

@@ -114,6 +114,16 @@
     "1661205021dc147d32": {
       "type": "multicolumn",
       "blocks": {
+        "c98a64e9-13a5-43f9-94af-218b9a2c495b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USO.23.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/copy-of-2023-uso-shirt"
+          }
+        },
         "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae": {
           "type": "column",
           "settings": {
@@ -216,6 +226,7 @@
         }
       },
       "block_order": [
+        "c98a64e9-13a5-43f9-94af-218b9a2c495b",
         "7d21ecc5-1b9e-4f68-bfcf-85c2df316fae",
         "7c93567b-6b1d-4ef2-aa63-f8ada06df99d",
         "16612050215a7c211f-0",
